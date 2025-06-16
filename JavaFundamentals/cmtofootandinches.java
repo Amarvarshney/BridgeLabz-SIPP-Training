@@ -1,5 +1,3 @@
-package dailypratice1;
-
 import java.util.Scanner;
 
 public class cmtofootandinches {
