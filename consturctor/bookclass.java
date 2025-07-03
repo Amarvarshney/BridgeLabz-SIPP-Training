@@ -19,6 +19,7 @@ public class bookclass {
     }
     public static void main(String[] args) {
         bookclass b1 = new bookclass();
+        
         b1.display();
         bookclass b2=new bookclass("harry porter", "amar", 10000);
         b2.display();
